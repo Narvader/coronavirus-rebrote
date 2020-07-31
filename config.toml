@@ -1,0 +1,13 @@
+languageCode = "es-es"
+title = "Cómo de cerca estamos de un rebrote de coronavirus"
+googleAnalytics = "UA-330997-1"
+disableHugoGeneratorInject = true
+
+[params]
+	comscore = "7215267"
+	chartbeat = "51507"
+	facebookId = "1482570825397489"
+	description = "Hasta que aparezca la ansiada vacuna o alcancemos la inmunidad de grupo, los rebrotes de covid-19 son inevitables. Así está la situación en cada provincia española"
+	author = "Antonio Villarreal"
+	newsSection = "Ciencia"
+	newsImage = "https://www.ecestaticos.com/file/dd8af9601a4a472bb5d7e02a95c20e18/1594977222-rrss.jpg"
